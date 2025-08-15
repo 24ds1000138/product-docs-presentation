@@ -18,7 +18,7 @@ Author: 24ds1000138@ds.study.iitm.ac.in
 <!-- Background image using Marp directive -->
 <!-- Make sure the image exists in the images folder -->
 # Feature Overview
-![bg](images/feature-bg.png)
+![bg](images/feature-bg.jpg)
 
 This slide demonstrates a background image.
 

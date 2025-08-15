@@ -2,8 +2,6 @@
 marp: true
 theme: ./themes/custom.css
 paginate: true
-backgroundColor: white
-header: "Product Documentation"
 footer: "24ds1000138@ds.study.iitm.ac.in"
 ---
 
@@ -14,9 +12,7 @@ Author: 24ds1000138@ds.study.iitm.ac.in
 
 ---
 
-<!-- Background Image Slide -->
-<!-- Background image using Marp directive -->
-<!-- Make sure the image exists in the images folder -->
+<!-- Slide with Background Image -->
 # Feature Overview
 ![bg](images/feature-bg.jpg)
 
@@ -39,14 +35,15 @@ Where:
 ---
 
 # Custom Styling Example
+class: lead
 
-<!-- Using Marp directives -->
-<!-- Change slide background and text color -->
-<!-- backgroundColor and color can be used -->
-<!-- Can also use classes from custom.css -->
-<!-- Example: class: lead -->
-# Key Benefits
 - Maintainable documentation
 - Version-controlled slides
 - Easy export to PDF/PPTX
 - Responsive design
+
+---
+
+# Thank You
+
+Contact: 24ds1000138@ds.study.iitm.ac.in
